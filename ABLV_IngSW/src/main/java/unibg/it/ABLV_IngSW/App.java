@@ -11,5 +11,6 @@ public class App {
         System.out.println("ciao da algeri");
         System.out.println("ciao sono cele");
         System.out.println("forza atalanta, vai juric!");
+        System.out.println("complimenti al brembate per la promozione");
     }
 }
