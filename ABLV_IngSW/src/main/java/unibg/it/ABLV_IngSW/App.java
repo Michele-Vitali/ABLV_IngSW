@@ -21,5 +21,6 @@ public class App {
         System.out.println("ciao sono cele");
         System.out.println("forza atalanta, vai juric!");
         System.out.println("complimenti al brembate per la promozione");
+        System.out.println("forza sorisolese!");
     }
 }
