@@ -1,4 +1,4 @@
-package unibg.it.ABLV_IngSW;
+package unibg.it.ABCLV_IngSW;
 
 public class User {
 	

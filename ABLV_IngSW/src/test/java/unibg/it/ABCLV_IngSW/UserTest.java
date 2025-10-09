@@ -1,6 +1,8 @@
-package unibg.it.ABLV_IngSW;
+package unibg.it.ABCLV_IngSW;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import unibg.it.ABCLV_IngSW.User;
 
 public class UserTest {
 
